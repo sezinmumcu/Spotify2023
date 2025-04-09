@@ -36,17 +36,7 @@ This project uses Python and the following libraries:
 5. Hyperparameter tuning using GridSearchCV
 6. Final model selection and performance evaluation
 
-## How to Use
-1. Clone this repository
-2. Ensure you have the required libraries installed
-3. Download the dataset
-4. Run the Jupyter notebook `spotify2023.ipynb`
+_Examples from the Exploratory Data Analysis_: 
+![Unknown-2](https://github.com/user-attachments/assets/b6164cf2-4d96-48f6-8b09-39cf90c0774c)
 
-## Future Work
-- Incorporate more advanced feature engineering techniques
-- Experiment with other machine learning algorithms
-- Perform deeper analysis on the relationship between audio features and song popularity
-- Create visualizations to better understand the data and results
-
-## Contributing
-Feel free to fork this project and submit pull requests with improvements or additional analyses.
+![Unknown-1](https://github.com/user-attachments/assets/1fa61e4b-6c91-4e8f-baaf-4e051be158ea)
